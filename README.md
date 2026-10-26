@@ -1,4 +1,4 @@
-# ${textsf{\color{#00000}are you satisfied with life?}}$
+# ${{\color{#00000}are you satisfied with life?}}$
 
 ## tell us how we can help
 
